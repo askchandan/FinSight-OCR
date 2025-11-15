@@ -1,9 +1,15 @@
 import os
 import zipfile
 import subprocess
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+DATASET = os.getenv("DATASET_LINK")
 
 class KaggleLoader:
-    def __init__(self, dataset, download_path='./data/raw/', extract_path=None):
+    def __init__(self, dataset=DATASET, download_path='./data/raw/', extract_path='./data/extracted/'):
         self.dataset = dataset
         self.download_path = download_path
         self.extract_path = extract_path
