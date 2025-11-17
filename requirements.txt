@@ -4,3 +4,5 @@ python-dotenv
 ollama
 chromadb
 langchain-huggingface
+faiss-cpu
+sentence-transformers
