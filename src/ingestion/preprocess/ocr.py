@@ -73,8 +73,6 @@ class BankStatementOCR:
 
 
     def process_all_images(self):
-
-        
         self.logger.info("Starting OCR...")
         
         image_extensions = ['.jpg', '.jpeg', '.png', '.tiff', '.bmp', '.gif', '.webp']
