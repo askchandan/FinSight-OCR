@@ -28,7 +28,7 @@ prompt = """
             """
 
 
-RAG_SYSTEM_PROMPT = """
+FIN_DOMAIN_PROMPT = """
 You are an expert AI assistant specialized in answering questions using the provided context.
 You must strictly follow the rules below:
 
