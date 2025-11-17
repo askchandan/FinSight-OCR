@@ -2,3 +2,5 @@ requests
 kaggle
 python-dotenv
 ollama
+chromadb
+langchain-huggingface
