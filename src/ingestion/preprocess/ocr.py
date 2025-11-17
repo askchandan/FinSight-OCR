@@ -123,4 +123,6 @@ class BankStatementOCR:
         
         self.logger.info('OCR Parsing Completed Successfully.')
 
+        return all_results
+
 
