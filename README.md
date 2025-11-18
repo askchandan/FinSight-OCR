@@ -11,11 +11,6 @@ FinSight-OCR is your intelligent assistant for understanding your bank statement
 - 🧪 Testing
 
 
-## 🛠️ Tech Stack
-
-- 🐍 Python
-
-
 ## 📦 Key Dependencies
 
 ```
