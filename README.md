@@ -1,4 +1,4 @@
-# FinSight-OCR-Bank-Statement-Chatbot
+# FinSight-OCR
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![License](https://img.shields.io/badge/license-GPL-green)
 
