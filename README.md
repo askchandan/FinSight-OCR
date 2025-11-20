@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![License](https://img.shields.io/badge/license-GPL-green)
 
-## 📝 Description.
+## 📝 Description
 
 FinSight-OCR is your intelligent assistant for understanding your bank statements. This Python-based tool leverages advanced OCR technology to extract transaction data from your statements. More than just data extraction, FinSight-OCR uses LLMs to analyze your spending patterns, providing insightful summaries and answering your financial queries in a conversational manner. Test its capabilities and gain control of your financial data today.
 
